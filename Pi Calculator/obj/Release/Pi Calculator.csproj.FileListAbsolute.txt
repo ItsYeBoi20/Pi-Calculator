@@ -1,0 +1,17 @@
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\bin\Release\Pi Calculator.exe.config
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\bin\Release\Pi Calculator.exe
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\bin\Release\Pi Calculator.pdb
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.exe
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.pdb
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\obj\Release\Pi_Calculator.Properties.Resources.resources
+C:\Users\Neo\source\repos\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.csproj.GenerateResource.cache
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\bin\Release\Pi Calculator.exe.config
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\bin\Release\Pi Calculator.exe
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\bin\Release\Pi Calculator.pdb
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\obj\Release\Pi_Calculator.Properties.Resources.resources
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.csproj.GenerateResource.cache
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.exe
+C:\Users\Neo\source\repos\Visual Studio Projects\$ Important $\Pi Calculator\Pi Calculator\obj\Release\Pi Calculator.pdb
